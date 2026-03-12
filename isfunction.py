@@ -1,0 +1,11 @@
+print('shrushti123'.isalnum()) #true
+print('shrushti123'.isalpha())
+print('123f"'.isdigit())
+print('sdsdsdsd'.islower())
+print(''.islower())
+print('shrushtis'.isupper())
+print('my name is shrushti'.istitle())
+print(''.istitle())
+print(''.isspace())
+print("Hello" .startswith("He"))
+print("Hello" .endswith("lo"))
